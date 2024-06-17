@@ -15,4 +15,4 @@
 - 📫 이메일: jsock414@gmail.com(mailto:jsock414@gmail.com)
 - [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
-![프로필 뷰 카운터](https://komarev.com/ghpvc/?username=JJOK97&style=flat-square&color=blue)
+  [![Jinseok's github stats](https://github-readme-stats.vercel.app/api?username=JJOK97)](https://github.com/anuraghazra/github-readme-stats)
