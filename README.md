@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70&fontColor=FFFFFF"/>
 </p>
 
-<br>
-
 <p align="center">
     <strong>안녕하세요 옥진석입니다! 👐</strong>
 </p>
