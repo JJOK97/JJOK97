@@ -104,10 +104,10 @@
 
 
 <div align="center">
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=JJOK97"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJOK97&layout=compact"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=JJOK97"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJOK97&layout=compact"/>
 </div>
 
 <div align="center">
-  <img height="160em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJOK97&theme=vue"/>
+  <img height="180em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJOK97&theme=vue"/>
 </div>
