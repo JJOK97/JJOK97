@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-<strong>🎓 공모전 🎓</strong>
+<strong>🏆 공모전 🏆</strong>
 <br>[ 금감원 주최 ] 2024 핀테크 아이디어 공모전 참여 중 | 2024.05 ~ 2024.07
 </p>
 
