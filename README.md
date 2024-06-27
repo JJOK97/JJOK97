@@ -33,8 +33,16 @@
 
 <p align="center">
 <strong>🎓 활동 🎓</strong>
-<br>중앙 HTA Cloud Office 구축 프로젝트 과정 2303기 수료 ( 2023/05/01 ~ 2023/11/06 )
-<br>SSAFY, Samsung Software Academy For Youth 11기 ( 2024/01/02 ~ )
+<br>중앙 HTA Cloud Office 구축 프로젝트 과정 2303기 수료 | 2023/05/01 ~ 2023/11/06 
+<br>SSAFY, Samsung Software Academy For Youth 11기 | 2024/01/02 ~ ing
+</p>
+
+<br>
+<br>
+
+<p align="center">
+<strong>🎓 공모전 🎓</strong>
+<br>[ 금감원 주최 ] 2024 핀테크 아이디어 공모전 참여 중 | 2024.05 ~ 2024.07
 </p>
 
 <br>
