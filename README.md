@@ -34,7 +34,7 @@
 <p align="center">
 <strong>🎓 활동 🎓</strong>
 <br>중앙 HTA Cloud Office 구축 프로젝트 과정 2303기 수료 | 2023/05/01 ~ 2023/11/06 
-<br>SSAFY, Samsung Software Academy For Youth 11기 | 자치회 반장, 지역대표 역임 | 2024/01/02 ~ ing
+<br>SSAFY, 삼성 청년 소프트웨어 아카데미 11기 ( 자치회, 지역 대표 ) | 2024/01/02 ~ ing
 </p>
 
 <br>
