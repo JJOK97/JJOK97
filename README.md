@@ -49,6 +49,14 @@
 <br>
 
 <p align="center">
+  <strong>📺 Samsung NewsRoom | SSAFY로운 생활 📺</strong><br>
+  <a href="https://youtu.be/GUu2b23rJfw?si=Rjb06PHExf8LNqhS"><strong>EP.1 합격하면 바로 개발자 될 줄 알았는데, 현실은 고3 뺨치는 공부량?</strong></a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
     <strong>⚒️ Tech Stack ⚒️</strong><br>
 </p>
 
