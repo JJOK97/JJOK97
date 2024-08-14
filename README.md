@@ -49,8 +49,9 @@
 <br>
 
 <p align="center">
-  <strong>📺 Samsung NewsRoom | SSAFY로운 생활 📺</strong><br>
-  <a href="https://youtu.be/GUu2b23rJfw?si=Rjb06PHExf8LNqhS"><strong>EP.1 합격하면 바로 개발자 될 줄 알았는데, 현실은 고3 뺨치는 공부량?</strong></a>
+  <strong>📺 Samsung NewsRoom | SSAFY로운 생활 📺</strong>
+  <br><a href="https://youtu.be/GUu2b23rJfw?si=Rjb06PHExf8LNqhS"><strong>EP.1 합격하면 바로 개발자 될 줄 알았는데, 현실은 고3 뺨치는 공부량?</strong></a>
+  <br><a href="https://youtu.be/eSyS_vX-aHM?si=uG8GRfyZUX4WclFd"><strong>EP.2 충격의 코딩테스트 결과! 개발자, 내 길이 맞는 걸까?</strong></a>
 </p>
 
 <br>
