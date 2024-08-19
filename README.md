@@ -64,8 +64,8 @@
 
 <table align="center" style="width: 80%; border-collapse: collapse;">
     <tr>
-        <td align="center" style="padding: 10px;"><strong>Front-end</strong></td>
-        <td align="center" style="padding: 10px;"><strong>Back-end</strong></td>
+        <td align="center" style="padding: 10px;"><strong>Frontend</strong></td>
+        <td align="center" style="padding: 10px;"><strong>Backend</strong></td>
         <td align="center" style="padding: 10px;"><strong>Database</strong></td>
         <td align="center" style="padding: 10px;"><strong>Other</strong></td>
     </tr>
@@ -73,18 +73,14 @@
         <td align="center" style="padding: 10px;">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <br>
-            <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> 
+            <br>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
             <img src="https://img.shields.io/badge/AJAX-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
         </td>
         <td align="center" style="padding: 10px;">
-            <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <br>
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&logoWidth=20"/>
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         </td>
         <td align="center" style="padding: 10px;">
             <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white"/> 
@@ -94,6 +90,9 @@
         <td align="center" style="padding: 10px;">
             <img src="https://img.shields.io/badge/Kakao API-FFCD00?style=flat-square&logo=kakao&logoColor=black"/> 
             <img src="https://img.shields.io/badge/TMap API-0033CC?style=flat-square&logoColor=white"/> 
+            <br>
+            <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=WebSocket&logoColor=white"/>
+            <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
         </td>
     </tr>
 </table>
@@ -105,12 +104,14 @@
 </p> 
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/LLM-FF9800?style=flat-square&logo=logo&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
 </p>
 
 <br>
