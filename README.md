@@ -54,6 +54,7 @@
   <br><a href="https://youtu.be/GUu2b23rJfw?si=Rjb06PHExf8LNqhS"><strong>EP.1 합격하면 바로 개발자 될 줄 알았는데, 현실은 고3 뺨치는 공부량?</strong></a>
   <br><a href="https://youtu.be/eSyS_vX-aHM?si=uG8GRfyZUX4WclFd"><strong>EP.2 충격의 코딩테스트 결과! 개발자, 내 길이 맞는 걸까?</strong></a>
   <br><a href="https://www.youtube.com/watch?v=wUze4_t1u0k&t=349s"><strong>EP.3 에러, 없었는데요 있었습니다...! 비전공자가 하루종일 개발만 하면 벌어지는 일</strong></a>
+  <br><a href="https://www.youtube.com/watch?v=8FJV9lLGshI&t=5s"><strong>EP.4 벌레로 진화한 거 같아요🐛’…개발자 되려고 회사 그만둔 비전공자의 최후</strong></a>
 </p>
 
 <br>
