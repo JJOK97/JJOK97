@@ -91,31 +91,11 @@
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
         </td>
         <td align="center" style="padding: 10px;">
-            <img src="https://img.shields.io/badge/Kakao API-FFCD00?style=flat-square&logo=kakao&logoColor=black"/> 
-            <img src="https://img.shields.io/badge/TMap API-0033CC?style=flat-square&logoColor=white"/> 
-            <br>
             <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=WebSocket&logoColor=white"/>
             <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
         </td>
     </tr>
 </table>
-
-<br>
-
-<p align="center">
-    <strong>💡 used at least once 💡</strong><br>
-</p> 
-
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
-</p>
 
 <br>
 <br>
