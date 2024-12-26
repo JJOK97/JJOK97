@@ -42,26 +42,6 @@
 <br>
 
 <p align="center">
-<strong>🏆 공모전 🏆</strong>
-<br>[ 금융위원회 주최 ] 2024 핀테크 아이디어 공모전 | 2024.05 ~ 2024.07   
-<br>[ 신한은행 주최 ] 2024 신한은행 SSAFY 해커톤 | 2024.07 ~ 2024.08    
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <strong>📺 Samsung NewsRoom | SSAFY로운 생활 📺</strong>
-  <br><a href="https://youtu.be/GUu2b23rJfw?si=Rjb06PHExf8LNqhS"><strong>EP.1 합격하면 바로 개발자 될 줄 알았는데, 현실은 고3 뺨치는 공부량?</strong></a>
-  <br><a href="https://youtu.be/eSyS_vX-aHM?si=uG8GRfyZUX4WclFd"><strong>EP.2 충격의 코딩테스트 결과! 개발자, 내 길이 맞는 걸까?</strong></a>
-  <br><a href="https://www.youtube.com/watch?v=wUze4_t1u0k&t=349s"><strong>EP.3 에러, 없었는데요 있었습니다...! 비전공자가 하루종일 개발만 하면 벌어지는 일</strong></a>
-  <br><a href="https://www.youtube.com/watch?v=8FJV9lLGshI&t=5s"><strong>EP.4 벌레로 진화한 거 같아요🐛’…개발자 되려고 회사 그만둔 비전공자의 최후</strong></a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
     <strong>⚒️ Tech Stack ⚒️</strong><br>
 </p>
 
@@ -92,6 +72,179 @@
         </td>
     </tr>
 </table>
+
+<br>
+<br>
+
+<p align="center">
+<strong>💻 Projects 💻</strong>
+</p>
+
+<br>
+
+<table align="center" style="width: 100%; table-layout: fixed; border-collapse: separate; border: none; border-spacing: 16px;">
+<tr>
+<td width="33%" style="border: none; background: none; vertical-align: top;">
+<div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
+   <p align="left">
+       <h4>🐕<a href="https://github.com/your-repo/heart-dog">Heart Dog</a></h4>
+       <hr>
+   </p>
+   <p align="left">
+     <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+     <img src="https://img.shields.io/badge/Period-2024.10~2024.11-green?style=flat"/>
+   </p>
+   <p align="left"><sup>웨어러블 기기로 수집된 데이터로 함께 키우는 <br> 가상 반려견 서비스</sup></p>
+<p align="left">
+ <sup><b>Position : </b>Team Leader / Mobile</sup><br>
+ <sup><b>Used : </b></sup>
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</p>
+ </div>
+</td>
+<td width="33%" style="border: none; background: none; vertical-align: top;">
+<div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
+  <p align="left">
+    <h4>💰 <a href="https://github.com/your-repo/more-more">MoreMore</a></h4>
+    <hr>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+    <img src="https://img.shields.io/badge/Period-2024.08~2024.10-green?style=flat"/>
+  </p>
+  <p align="left"><sup>모임 통장과 SNS를 결합해 자금관리와 소통을 <br> 동시에 지원하는 핀테크 서비스</sup></p>
+  <p align="left">
+    <sup><b>Position : </b>Frontend</sup><br/>
+    <sup><b>Used : </b></sup>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white"/>
+  </p>
+</div>
+
+</td>
+<td width="33%" style="border: none; background: none; vertical-align: top;">
+ <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
+  <p align="left">
+    <h4>💘 <a href="https://github.com/your-repo/sol-ting">SOL팅</a></h4>
+    <hr>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/해커톤-신한은행-blue?style=flat"/>
+    <img src="https://img.shields.io/badge/Period-2024.07~2024.08-green?style=flat"/>
+  </p>
+  <p align="left"><sup>금융 데이터와 소비 성향을 기반으로 <br> 새로운 인연을 연결해주는 매칭 플랫폼 아이디어 기획</sup></p>
+  <p align="left">
+    <sup><b>Position : </b>Planner</sup><br/>
+    <sup><b>Tool : </b></sup>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Wireframe-000000?style=flat&logo=wire&logoColor=white"/>
+  </p>
+</div>
+</td>
+</tr>
+<!-- Second row -->
+<tr>
+<td width="33%" style="border: none; background: none; vertical-align: top;">
+ <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
+  <p align="left">
+    <h4>📸 <a href="https://github.com/your-repo/picple">PicPle</a></h4>
+    <hr>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+    <img src="https://img.shields.io/badge/Period-2024.07~2024.08-green?style=flat"/>
+  </p>
+  <p align="left"><sup>화상 공유 및 AI 이미지 생성기능을 활용한 <br> 온라인 인생네컷 촬영 서비스</sup></p>
+  <p align="left">
+    <sup><b>Position : </b>Frontend</sup><br/>
+    <sup><b>Used : </b></sup>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>      
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"/>
+  </p>
+</div>
+</td>
+<td width="33%" style="border: none; background: none; vertical-align: top;">
+<div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
+  <p align="left">
+    <h4>🌊 <a href="https://github.com/your-repo/ocean-platform">포세이돈</a></h4>
+    <hr>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/공모전-금융위원회-yellow?style=flat"/>
+    <img src="https://img.shields.io/badge/Period-2024.06~2024.07-green?style=flat"/>
+  </p>
+  <p align="left"><sup>빅데이터 기반 양식장 관리와 유통으로 해양 환경을 보호, 지속 가능한 어업을 실현하는 아이디어 기획</sup></p>
+  <p align="left">
+    <sup><b>Position : </b>Team Leader / Planner</sup><br/>
+    <sup><b>Tool : </b></sup>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
+  </p>
+</div>
+
+</td>
+<td width="33%" style="border: none; background: none; vertical-align: top;">
+    <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
+      <p align="left">
+        <h4>💪 <a href="https://github.com/your-repo/fitnect">Fitnect</a></h4>
+        <hr>
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+        <img src="https://img.shields.io/badge/Period-2024.06~2024.07-green?style=flat"/>
+      </p>
+      <p align="left"><sup>실시간 사용자 위치 기반 <br> 운동 시설 정보 제공 및 예약/결제 서비스</sup></p>
+      <p align="left">
+        <sup><b>Position : </b>Frontend</sup><br/>
+        <sup><b>Used : </b></sup>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat&logo=kakao&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TMap-FF4646?style=flat&logo=map&logoColor=white"/>
+      </p>
+    </div>
+</td>
+</tr>
+<!-- Third row -->
+<tr>
+<td width="33%" style="border: none; background: none; vertical-align: top;">
+    <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
+      <p align="left">
+        <h4>🏢 <a href="https://github.com/your-repo/wid-us">Wid Us</a></h4>
+        <hr>
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Project-중앙HTA-blue?style=flat"/>
+        <img src="https://img.shields.io/badge/Period-2023.09~2023.11-green?style=flat"/>
+      </p>
+      <p align="left"><sup>전사적 프로젝트 관리와 인사 관리를 위한 <br> ERP & 협업 툴</sup></p>
+      <p align="left">
+        <sup><b>Position : </b>Full Stack</sup><br/>
+        <sup><b>Used : </b></sup>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+      </p>
+    </div>
+</td>
+<td width="33%" style="border: none;"></td>
+<td width="33%" style="border: none;"></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<p align="center">
+  <strong>📺 Samsung NewsRoom | SSAFY로운 생활 📺</strong>
+  <br><a href="https://youtu.be/GUu2b23rJfw?si=Rjb06PHExf8LNqhS"><strong>EP.1 합격하면 바로 개발자 될 줄 알았는데, 현실은 고3 뺨치는 공부량?</strong></a>
+  <br><a href="https://youtu.be/eSyS_vX-aHM?si=uG8GRfyZUX4WclFd"><strong>EP.2 충격의 코딩테스트 결과! 개발자, 내 길이 맞는 걸까?</strong></a>
+  <br><a href="https://www.youtube.com/watch?v=wUze4_t1u0k&t=349s"><strong>EP.3 에러, 없었는데요 있었습니다...! 비전공자가 하루종일 개발만 하면 벌어지는 일</strong></a>
+  <br><a href="https://www.youtube.com/watch?v=8FJV9lLGshI&t=5s"><strong>EP.4 벌레로 진화한 거 같아요🐛’…개발자 되려고 회사 그만둔 비전공자의 최후</strong></a>
+</p>
 
 <br>
 <br>
