@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-<strong>🎓 활동 🎓</strong>
+<strong>🎓 Education 🎓</strong>
 <br>SSAFY, 삼성 청년 소프트웨어 아카데미 서울 캠퍼스 11기, 지역대표 | 2024/01/02 ~ ing
 <br>중앙 HTA Cloud Office 프로젝트 구축 과정 2303기 | 2023/05/01 ~ 2023/11/06 
 <br>경상 국립대 수산 경영학과 졸업 | 2016.03 ~ 2022.02
@@ -70,7 +70,6 @@
         <td align="center" style="padding: 10px;"><strong>Frontend</strong></td>
         <td align="center" style="padding: 10px;"><strong>Backend</strong></td>
         <td align="center" style="padding: 10px;"><strong>Database</strong></td>
-        <td align="center" style="padding: 10px;"><strong>Other</strong></td>
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
@@ -90,10 +89,6 @@
             <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white"/> 
             <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
-        </td>
-        <td align="center" style="padding: 10px;">
-            <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=WebSocket&logoColor=white"/>
-            <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
         </td>
     </tr>
 </table>
