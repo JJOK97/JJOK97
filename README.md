@@ -80,8 +80,6 @@
 <strong>💻 Projects 💻</strong>
 </p>
 
-<br>
-
 <table align="center" style="width: 100%; table-layout: fixed; border-collapse: separate; border: none; border-spacing: 16px;">
 <tr>
 <td width="33%" style="border: none; background: none; vertical-align: top;">
