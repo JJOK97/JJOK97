@@ -94,7 +94,7 @@
      <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
      <img src="https://img.shields.io/badge/Period-2024.10~2024.11-green?style=flat"/>
    </p>
-   <p align="left"><sup>웨어러블 기기로 수집된 데이터로 함께 키우는 가상 반려견 서비스</sup></p>
+   <p align="left"><sup>웨어러블 기기로 수집된 데이터로 함께 키우는 <br> 가상 반려견 서비스</sup></p>
 <p align="left">
  <sup><b>Position : </b>Team Leader / Mobile</sup><br>
  <sup><b>Used : </b></sup><br>
@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.08~2024.10-green?style=flat"/>
   </p>
-  <p align="left"><sup>모임 통장과 SNS를 결합해 자금관리와 소통을 동시에 지원하는 핀테크 서비스</sup></p>
+  <p align="left"><sup>모임 통장과 SNS를 결합해 자금관리와 소통을 <br> 동시에 지원하는 핀테크 서비스</sup></p>
   <p align="left">
     <sup><b>Position : </b>Frontend</sup><br/>
     <sup><b>Used : </b></sup><br>
@@ -135,7 +135,7 @@
     <img src="https://img.shields.io/badge/해커톤-신한은행-blue?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.07~2024.08-green?style=flat"/>
   </p>
-  <p align="left"><sup>금융 데이터와 소비 성향을 기반으로 새로운 인연을 연결해주는 매칭 플랫폼 아이디어 기획</sup></p>
+  <p align="left"><sup>금융 데이터와 소비 성향을 기반으로 새로운 인연을 <br> 연결해주는 매칭 플랫폼 아이디어 기획</sup></p>
   <p align="left">
     <sup><b>Position : </b>Planner</sup><br/>
     <sup><b>Tool : </b></sup><br>
@@ -157,7 +157,7 @@
     <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.07~2024.08-green?style=flat"/>
   </p>
-  <p align="left"><sup>화상 공유 및 AI 이미지 생성기능을 활용한 온라인 인생네컷 촬영 서비스</sup></p>
+  <p align="left"><sup>화상 공유 및 AI 이미지 생성기능을 활용한 <br> 온라인 인생네컷 촬영 서비스</sup></p>
   <p align="left">
     <sup><b>Position : </b>Frontend</sup><br/>
     <sup><b>Used : </b></sup><br>
@@ -177,7 +177,7 @@
     <img src="https://img.shields.io/badge/공모전-금융위원회-yellow?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.06~2024.07-green?style=flat"/>
   </p>
-  <p align="left"><sup>빅데이터 기반 양식장 관리와 유통으로 해양 환경을 보호하는는 지속 가능한 어업을 실현하는 아이디어 기획</sup></p>
+  <p align="left"><sup>빅데이터 기반 양식장 관리와 유통으로 해양 환경을 <br> 보호하는 지속 가능한 어업 아이디어 기획</sup></p>
   <p align="left">
     <sup><b>Position : </b>Team Leader / Planner</sup><br/>
     <sup><b>Tool : </b></sup><br>
@@ -197,7 +197,7 @@
         <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
         <img src="https://img.shields.io/badge/Period-2024.06~2024.07-green?style=flat"/>
       </p>
-      <p align="left"><sup>실시간 사용자 위치 기반 운동 시설 정보 제공 및 예약/결제 서비스</sup></p>
+      <p align="left"><sup>실시간 사용자 위치 기반 <br> 운동 시설 정보 제공 및 예약/결제 서비스</sup></p>
       <p align="left">
         <sup><b>Position : </b>Frontend</sup><br/>
         <sup><b>Used : </b></sup><br>
@@ -220,7 +220,7 @@
         <img src="https://img.shields.io/badge/Project-중앙HTA-blue?style=flat"/><br>
         <img src="https://img.shields.io/badge/Period-2023.09~2023.11-green?style=flat"/>
       </p>
-      <p align="left"><sup>전사적 프로젝트 관리와 인사 관리를 위한 ERP & 협업 툴</sup></p>
+      <p align="left"><sup>전사적프로젝트 관리와 인사 관리를 효율적으로 사용할 수 있는 ERP & 협업 툴 서비스</sup></p>
       <p align="left">
         <sup><b>Position : </b>Full Stack</sup><br/>
         <sup><b>Used : </b></sup><br>
