@@ -91,13 +91,13 @@
        <hr>
    </p>
    <p align="left">
-     <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+     <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
      <img src="https://img.shields.io/badge/Period-2024.10~2024.11-green?style=flat"/>
    </p>
-   <p align="left"><sup>웨어러블 기기로 수집된 데이터로 함께 키우는 <br> 가상 반려견 서비스</sup></p>
+   <p align="left"><sup>웨어러블 기기로 수집된 데이터로 함께 키우는 가상 반려견 서비스</sup></p>
 <p align="left">
  <sup><b>Position : </b>Team Leader / Mobile</sup><br>
- <sup><b>Used : </b></sup>
+ <sup><b>Used : </b></sup><br>
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -111,13 +111,13 @@
     <hr>
   </p>
   <p align="left">
-    <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+    <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.08~2024.10-green?style=flat"/>
   </p>
-  <p align="left"><sup>모임 통장과 SNS를 결합해 자금관리와 소통을 <br> 동시에 지원하는 핀테크 서비스</sup></p>
+  <p align="left"><sup>모임 통장과 SNS를 결합해 자금관리와 소통을 동시에 지원하는 핀테크 서비스</sup></p>
   <p align="left">
     <sup><b>Position : </b>Frontend</sup><br/>
-    <sup><b>Used : </b></sup>
+    <sup><b>Used : </b></sup><br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>    
     <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white"/>
@@ -132,13 +132,13 @@
     <hr>
   </p>
   <p align="left">
-    <img src="https://img.shields.io/badge/해커톤-신한은행-blue?style=flat"/>
+    <img src="https://img.shields.io/badge/해커톤-신한은행-blue?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.07~2024.08-green?style=flat"/>
   </p>
-  <p align="left"><sup>금융 데이터와 소비 성향을 기반으로 <br> 새로운 인연을 연결해주는 매칭 플랫폼 아이디어 기획</sup></p>
+  <p align="left"><sup>금융 데이터와 소비 성향을 기반으로 새로운 인연을 연결해주는 매칭 플랫폼 아이디어 기획</sup></p>
   <p align="left">
     <sup><b>Position : </b>Planner</sup><br/>
-    <sup><b>Tool : </b></sup>
+    <sup><b>Tool : </b></sup><br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Wireframe-000000?style=flat&logo=wire&logoColor=white"/>
   </p>
@@ -154,13 +154,13 @@
     <hr>
   </p>
   <p align="left">
-    <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+    <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.07~2024.08-green?style=flat"/>
   </p>
-  <p align="left"><sup>화상 공유 및 AI 이미지 생성기능을 활용한 <br> 온라인 인생네컷 촬영 서비스</sup></p>
+  <p align="left"><sup>화상 공유 및 AI 이미지 생성기능을 활용한 온라인 인생네컷 촬영 서비스</sup></p>
   <p align="left">
     <sup><b>Position : </b>Frontend</sup><br/>
-    <sup><b>Used : </b></sup>
+    <sup><b>Used : </b></sup><br>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>      
     <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
     <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"/>
@@ -174,13 +174,13 @@
     <hr>
   </p>
   <p align="left">
-    <img src="https://img.shields.io/badge/공모전-금융위원회-yellow?style=flat"/>
+    <img src="https://img.shields.io/badge/공모전-금융위원회-yellow?style=flat"/><br>
     <img src="https://img.shields.io/badge/Period-2024.06~2024.07-green?style=flat"/>
   </p>
-  <p align="left"><sup>빅데이터 기반 양식장 관리와 유통으로 해양 환경을 보호, 지속 가능한 어업을 실현하는 아이디어 기획</sup></p>
+  <p align="left"><sup>빅데이터 기반 양식장 관리와 유통으로 해양 환경을 보호하는는 지속 가능한 어업을 실현하는 아이디어 기획</sup></p>
   <p align="left">
     <sup><b>Position : </b>Team Leader / Planner</sup><br/>
-    <sup><b>Tool : </b></sup>
+    <sup><b>Tool : </b></sup><br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
   </p>
@@ -194,13 +194,13 @@
         <hr>
       </p>
       <p align="left">
-        <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/>
+        <img src="https://img.shields.io/badge/Project-SSAFY-blue?style=flat"/><br>
         <img src="https://img.shields.io/badge/Period-2024.06~2024.07-green?style=flat"/>
       </p>
-      <p align="left"><sup>실시간 사용자 위치 기반 <br> 운동 시설 정보 제공 및 예약/결제 서비스</sup></p>
+      <p align="left"><sup>실시간 사용자 위치 기반 운동 시설 정보 제공 및 예약/결제 서비스</sup></p>
       <p align="left">
         <sup><b>Position : </b>Frontend</sup><br/>
-        <sup><b>Used : </b></sup>
+        <sup><b>Used : </b></sup><br>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat&logo=kakao&logoColor=black"/>
         <img src="https://img.shields.io/badge/TMap-FF4646?style=flat&logo=map&logoColor=white"/>
@@ -217,13 +217,13 @@
         <hr>
       </p>
       <p align="left">
-        <img src="https://img.shields.io/badge/Project-중앙HTA-blue?style=flat"/>
+        <img src="https://img.shields.io/badge/Project-중앙HTA-blue?style=flat"/><br>
         <img src="https://img.shields.io/badge/Period-2023.09~2023.11-green?style=flat"/>
       </p>
-      <p align="left"><sup>전사적 프로젝트 관리와 인사 관리를 위한 <br> ERP & 협업 툴</sup></p>
+      <p align="left"><sup>전사적 프로젝트 관리와 인사 관리를 위한 ERP & 협업 툴</sup></p>
       <p align="left">
         <sup><b>Position : </b>Full Stack</sup><br/>
-        <sup><b>Used : </b></sup>
+        <sup><b>Used : </b></sup><br>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
