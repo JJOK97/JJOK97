@@ -135,7 +135,7 @@
   </p>
   <p align="left"><sup>금융 데이터와 소비 성향을 기반으로 새로운 인연을 <br> 연결해주는 매칭 플랫폼 아이디어 기획</sup></p>
   <p align="left">
-    <sup><b>Position : </b>Planner</sup><br/>
+    <sup><b>Position : </b>PM</sup><br/>
     <sup><b>Tool : </b></sup><br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Wireframe-000000?style=flat&logo=wire&logoColor=white"/>
@@ -177,7 +177,7 @@
   </p>
   <p align="left"><sup>빅데이터 기반 양식장 관리와 유통으로 해양 환경을 <br> 보호하는 지속 가능한 어업 아이디어 기획</sup></p>
   <p align="left">
-    <sup><b>Position : </b>Team Leader / Planner</sup><br/>
+    <sup><b>Position : </b>Team Leader / PM</sup><br/>
     <sup><b>Tool : </b></sup><br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
