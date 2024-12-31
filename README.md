@@ -85,7 +85,7 @@
 <td width="33%" style="border: none; background: none; vertical-align: top;">
 <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
    <p align="left">
-       <h4>🐕<a href="https://github.com/your-repo/heart-dog">Heart Dog</a></h4>
+       <h4>🐕 <a href="https://github.com/your-repo/heart-dog">Heart Dog</a></h4>
        <hr>
    </p>
    <p align="left">
