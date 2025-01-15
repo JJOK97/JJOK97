@@ -254,7 +254,7 @@
 
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JJOK97"/>
+  <img height="170em" src="https://github-readme-streak-stats-steel-one.vercel.app?user=JJOK97" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJOK97&layout=compact"/>
 </div>
 
