@@ -34,8 +34,8 @@
 <p align="center">
     <strong>🎓 Education 🎓</strong>
     <br>인프런, AI 커리어 스쿨 1기 | 2025/01/06 ~ 2025/02/28
-    <br>SSAFY, 삼성 청년 소프트웨어 아카데미 서울 캠퍼스 11기, 🏆 공로상 수상 🏆 | 2024/01/02 ~ 2024/12/31
-    <br>중앙 HTA, Cloud Office 프로젝트 구축 과정 2303기 | 2023/05/01 ~ 2023/11/06 
+    <br>SSAFY, 삼성 청년 소프트웨어 아카데미 서울 캠퍼스 11기, 🏆 지역대표 공로상 수상 🏆 | 2024/01/02 ~ 2024/12/31
+    <br>중앙 HTA, Cloud Office 프로젝트 구축 과정 2303기, 🏆 프로젝트 대상 🏆 | 2023/05/01 ~ 2023/11/06 
     <br>경상 국립대 수산 경영학과 졸업 | 2016.03 ~ 2022.02
 </p>
 
@@ -238,7 +238,11 @@
 <br>
 
 <p align="center">
-  <strong>📺 Samsung NewsRoom | SSAFY로운 생활 📺</strong>
+    <strong>✨ More ✨</strong>
+</p>
+
+<p align="center">
+  <strong>🎥 Samsung NewsRoom | SSAFY로운 생활 🎥</strong>
   <br><a href="https://youtu.be/GUu2b23rJfw?si=Rjb06PHExf8LNqhS"><strong>EP.1 합격하면 바로 개발자 될 줄 알았는데, 현실은 고3 뺨치는 공부량?</strong></a>
   <br><a href="https://youtu.be/eSyS_vX-aHM?si=uG8GRfyZUX4WclFd"><strong>EP.2 충격의 코딩테스트 결과! 개발자, 내 길이 맞는 걸까?</strong></a>
   <br><a href="https://www.youtube.com/watch?v=wUze4_t1u0k&t=349s"><strong>EP.3 에러, 없었는데요 있었습니다...! 비전공자가 하루종일 개발만 하면 벌어지는 일</strong></a>
@@ -249,9 +253,12 @@
 <br>
 
 <p align="center">
-    <strong>✨ More ✨</strong>
+    <strong>👨‍💻 JHTA 2303기 대표 인터뷰 👨‍💻</strong>
+    <br><a href="https://www.jhta.co.kr/a-content/a-review?tpf=board/view&board_code=8&code=1817"><strong>[ 인터뷰 ] 비전공자의 웹 개발 도전기</strong></a>
 </p>
 
+<br>
+<br>
 
 <div align="center">
   <img height="170em" src="https://github-readme-streak-stats-steel-one.vercel.app?user=JJOK97" />
