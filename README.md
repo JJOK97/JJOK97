@@ -252,14 +252,6 @@
 <br>
 <br>
 
-<p align="center">
-    <strong>👨‍💻 JHTA 2303기 대표 인터뷰 👨‍💻</strong>
-    <br><a href="https://www.jhta.co.kr/a-content/a-review?tpf=board/view&board_code=8&code=1817"><strong>[ 인터뷰 ] 비전공자의 웹 개발 도전기</strong></a>
-</p>
-
-<br>
-<br>
-
 <div align="center">
   <img height="170em" src="https://github-readme-streak-stats-steel-one.vercel.app?user=JJOK97" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJOK97&layout=compact"/>
