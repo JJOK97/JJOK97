@@ -106,7 +106,7 @@
 <td width="33%" style="border: none; background: none; vertical-align: top;">
 <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
   <p align="left">
-    <h4>💰 <a href="https://github.com/your-repo/more-more">MoreMore</a></h4>
+    <h4>💰 <a href="https://github.com/JJOK97/MoreMore">MoreMore</a></h4>
     <hr>
   </p>
   <p align="left">
@@ -149,7 +149,7 @@
 <td width="33%" style="border: none; background: none; vertical-align: top;">
  <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
   <p align="left">
-    <h4>📸 <a href="https://github.com/your-repo/picple">PicPle</a></h4>
+    <h4>📸 <a href="https://github.com/JJOK97/PicPle">PicPle</a></h4>
     <hr>
   </p>
   <p align="left">
@@ -189,7 +189,7 @@
 <td width="33%" style="border: none; background: none; vertical-align: top;">
     <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
       <p align="left">
-        <h4>💪 <a href="https://github.com/your-repo/fitnect">Team Leader / Fitnect</a></h4>
+        <h4>💪 <a href="https://github.com/JJOK97/Fitnect">Team Leader / Fitnect</a></h4>
         <hr>
       </p>
       <p align="left">
@@ -212,7 +212,7 @@
 <td width="33%" style="border: none; background: none; vertical-align: top;">
     <div style="min-height: 400px; width: 100%; padding: 16px; background: none;">
       <p align="left">
-        <h4>🏢 <a href="https://github.com/your-repo/wid-us">Wid Us</a></h4>
+        <h4>🏢 <a href="https://github.com/JJOK97/WidUs">Wid Us</a></h4>
         <hr>
       </p>
       <p align="left">
