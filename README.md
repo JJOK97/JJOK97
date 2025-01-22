@@ -16,7 +16,7 @@
 <table align="center" style="width: 80%; border-collapse: collapse;">
     <tr style="border-bottom: 1px solid #dddddd;">
         <td align="center" style="padding: 10px;"><strong>☁️ Profile</strong></td>
-        <td align="center" style="padding: 10px;"><a href="https://jjok97.github.io">https://jjok97.github.io</a></td>
+        <td align="center" style="padding: 10px;"><a href="https://jjok97.github.io">https://jjok97.github.io/portfolio/</a></td>
     </tr>
     <tr style="border-bottom: 1px solid #dddddd;">
         <td align="center" style="padding: 10px;"><strong>📧 Email</strong></td>
