@@ -22,10 +22,6 @@
         <td align="center" style="padding: 10px;"><strong>📧 Email</strong></td>
         <td align="center" style="padding: 10px;"><a href="mailto:jsock414@gmail.com">jsock414@gmail.com</a></td>
     </tr>
-<!--     <tr>
-        <td align="center" style="padding: 10px;"><strong>📘 Study Note</strong></td>
-        <td align="center" style="padding: 10px;"><a href="https://bit.ly/Jinseok_StudyNote">https://bit.ly/Jinseok_StudyNote</a></td>
-    </tr> -->
 </table>
 
 <br>
