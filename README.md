@@ -248,7 +248,7 @@
 <br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats-steel-one.vercel.app?user=JJOK97" />
+  <img height="170em" src="https://github-readme-streak-stats-mndp32dba-jjok97s-projects.vercel.app?user=JJOK97&nocache=1" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJOK97&layout=compact"/>
 </div>
 
