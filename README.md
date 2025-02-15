@@ -248,7 +248,7 @@
 <br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats-fh402dilp-jjok97s-projects.vercel.app?user=JJOK97&nocache=1" />
+  <img height="170em" src="https://github-readme-streak-stats-gules-eta.vercel.app?user=JJOK97&nocache=1" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJOK97&layout=compact"/>
 </div>
 
