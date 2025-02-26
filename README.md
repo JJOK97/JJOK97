@@ -15,13 +15,13 @@
 
 <p align="center">
     <a href="https://jjok97.github.io/portfolio/">
-        <img src="https://img.shields.io/badge/Profile-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="img/portfolio.svg" alt="Portfolio" width="100px" style="margin-right: 10px;" />
     </a>
     <a href="mailto:jsock414@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+        <img src="img/email.svg" alt="Email" width="100px" style="margin-right: 10px;" />
     </a>
     <a href="https://jjok97.github.io/">
-        <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=ghost&logoColor=white"/>
+        <img src="img/blog.svg" alt="Blog" width="100px" />
     </a>
 </p>
 
