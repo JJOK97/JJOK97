@@ -13,16 +13,17 @@
 <strong>🌟 About Me 🌟</strong>
 </p>
 
-<table align="center" style="width: 80%; border-collapse: collapse;">
-    <tr style="border-bottom: 1px solid #dddddd;">
-        <td align="center" style="padding: 10px;"><strong>☁️ Profile</strong></td>
-        <td align="center" style="padding: 10px;"><a href="https://jjok97.github.io/portfolio/">https://jjok97.github.io/portfolio/</a></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #dddddd;">
-        <td align="center" style="padding: 10px;"><strong>📧 Email</strong></td>
-        <td align="center" style="padding: 10px;"><a href="mailto:jsock414@gmail.com">jsock414@gmail.com</a></td>
-    </tr>
-</table>
+<p align="center">
+    <a href="https://jjok97.github.io/portfolio/">
+        <img src="https://img.shields.io/badge/Profile-181717?style=flat-square&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:jsock414@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://jjok97.github.io/">
+        <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=ghost&logoColor=white"/>
+    </a>
+</p>
 
 <br>
 <br>
