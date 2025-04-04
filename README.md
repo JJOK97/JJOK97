@@ -48,7 +48,6 @@
     <tr>
         <td align="center" style="padding: 10px;"><strong>Frontend</strong></td>
         <td align="center" style="padding: 10px;"><strong>Backend</strong></td>
-        <td align="center" style="padding: 10px;"><strong>Database</strong></td>
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
@@ -63,11 +62,11 @@
         <td align="center" style="padding: 10px;">
             <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&logoWidth=20"/>
             <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        </td>
-        <td align="center" style="padding: 10px;">
-            <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <br>
             <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
         </td>
     </tr>
 </table>
