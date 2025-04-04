@@ -34,7 +34,7 @@
     <br>인프런, AI 커리어 스쿨 1기, &thinsp; <img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg" width="15" /> &thinsp; Google.org 인증 수료생 &thinsp; <img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg" width="15" /> &thinsp; | 2025/01/06 ~ 2025/02/28
     <br>SSAFY, 삼성 청년 소프트웨어 아카데미 11기, 🏆 서울 지역대표 활동 및 공로상 수상 🏆 | 2024/01/02 ~ 2024/12/31
     <br>중앙 HTA, Cloud Office 프로젝트 구축 과정 2303기, 🏆 프로젝트 대상 🏆 | 2023/05/01 ~ 2023/11/06 
-    <br>경상 국립대 수산 경영학과 졸업 | 2016.03 ~ 2022.02
+    <br>경상 국립대 수산 경영학과 | 2016.03 ~ 2022.02
 </p>
 
 <br>
