@@ -85,15 +85,3 @@
   <br><a href="https://www.youtube.com/watch?v=wUze4_t1u0k&t=349s"><strong>EP.3 에러, 없었는데요 있었습니다...! 비전공자가 하루종일 개발만 하면 벌어지는 일</strong></a>
   <br><a href="https://www.youtube.com/watch?v=8FJV9lLGshI&t=5s"><strong>EP.4 벌레로 진화한 거 같아요🐛’…개발자 되려고 회사 그만둔 비전공자의 최후</strong></a>
 </p>
-
-<br>
-<br>
-
-<div align="center">
-  <img height="170em" src="https://github-readme-streak-stats-gules-eta.vercel.app?user=JJOK97&nocache=1" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJOK97&layout=compact"/>
-</div>
-
-<div align="center">
-  <img height="220em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJOK97&theme=vue"/>
-</div>
