@@ -30,7 +30,7 @@
 
 <p align="center">
     <strong>🎓 Education 🎓</strong>
-    <br>스마트 인재 개발원, 데이터 분석 SW 캠프, 🏆 IITP 최우수상  🏆 | 2025/02/19 ~ 2025/08/13
+    <br>스마트 인재 개발원, 데이터 분석 SW 캠프, 🏆 과기부, IITP 주최 컨퍼런스 최우수상  🏆 | 2025/02/19 ~ 2025/08/13
     <br>인프런, AI 커리어 스쿨 1기, &thinsp; <img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg" width="15" /> &thinsp; Google.org 인증 수료생 &thinsp; <img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg" width="15" /> &thinsp; | 2025/01/06 ~ 2025/02/28
     <br>SSAFY, 삼성 청년 소프트웨어 아카데미 11기, 🏆 서울 지역대표 활동 및 공로상 수상 🏆 | 2024/01/02 ~ 2024/12/31
     <br>중앙 HTA, Cloud Office 프로젝트 구축 과정 2303기, 🏆 프로젝트 대상 🏆 | 2023/05/01 ~ 2023/11/06 
